@@ -1,0 +1,97 @@
+date,query,interest
+2021-01-31,wcag,29
+2021-02-28,wcag,30
+2021-03-31,wcag,29
+2021-04-30,wcag,33
+2021-05-31,wcag,31
+2021-06-30,wcag,33
+2021-07-31,wcag,38
+2021-08-31,wcag,41
+2021-09-30,wcag,38
+2021-10-31,wcag,45
+2021-11-30,wcag,36
+2021-12-31,wcag,32
+2022-01-31,wcag,43
+2022-02-28,wcag,38
+2022-03-31,wcag,41
+2022-04-30,wcag,36
+2022-05-31,wcag,40
+2022-06-30,wcag,38
+2022-07-31,wcag,44
+2022-08-31,wcag,45
+2022-09-30,wcag,47
+2022-10-31,wcag,53
+2022-11-30,wcag,51
+2022-12-31,wcag,43
+2023-01-31,wcag,53
+2023-02-28,wcag,52
+2023-03-31,wcag,52
+2023-04-30,wcag,53
+2023-05-31,wcag,55
+2023-06-30,wcag,52
+2023-07-31,wcag,55
+2023-08-31,wcag,61
+2023-09-30,wcag,54
+2023-10-31,wcag,54
+2023-11-30,wcag,59
+2023-12-31,wcag,55
+2024-01-31,wcag,54
+2024-02-29,wcag,60
+2024-03-31,wcag,68
+2024-04-30,wcag,63
+2024-05-31,wcag,65
+2024-06-30,wcag,56
+2024-07-31,wcag,67
+2024-08-31,wcag,67
+2024-09-30,wcag,65
+2024-10-31,wcag,69
+2024-11-30,wcag,70
+2024-12-31,wcag,66
+2021-01-31,palette generator,52
+2021-02-28,palette generator,56
+2021-03-31,palette generator,49
+2021-04-30,palette generator,47
+2021-05-31,palette generator,50
+2021-06-30,palette generator,56
+2021-07-31,palette generator,46
+2021-08-31,palette generator,55
+2021-09-30,palette generator,49
+2021-10-31,palette generator,54
+2021-11-30,palette generator,50
+2021-12-31,palette generator,51
+2022-01-31,palette generator,61
+2022-02-28,palette generator,47
+2022-03-31,palette generator,57
+2022-04-30,palette generator,63
+2022-05-31,palette generator,59
+2022-06-30,palette generator,49
+2022-07-31,palette generator,49
+2022-08-31,palette generator,52
+2022-09-30,palette generator,57
+2022-10-31,palette generator,58
+2022-11-30,palette generator,51
+2022-12-31,palette generator,53
+2023-01-31,palette generator,54
+2023-02-28,palette generator,57
+2023-03-31,palette generator,68
+2023-04-30,palette generator,54
+2023-05-31,palette generator,54
+2023-06-30,palette generator,54
+2023-07-31,palette generator,63
+2023-08-31,palette generator,60
+2023-09-30,palette generator,56
+2023-10-31,palette generator,59
+2023-11-30,palette generator,57
+2023-12-31,palette generator,63
+2024-01-31,palette generator,75
+2024-02-29,palette generator,65
+2024-03-31,palette generator,62
+2024-04-30,palette generator,59
+2024-05-31,palette generator,56
+2024-06-30,palette generator,67
+2024-07-31,palette generator,67
+2024-08-31,palette generator,61
+2024-09-30,palette generator,70
+2024-10-31,palette generator,64
+2024-11-30,palette generator,69
+2024-12-31,palette generator,66
